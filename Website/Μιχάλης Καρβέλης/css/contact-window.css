@@ -1,0 +1,36 @@
+.contact-window{
+
+    position: relative;
+    width: 1000px;
+    border: 5px outset rgb(70, 203, 255);
+    background-color: rgba(173, 216, 230, 0.404);    
+    
+
+    
+
+}
+
+.submit-button{
+
+    background-color: rgb(21, 253, 0);
+    width: 100px;
+    height:40px;
+    cursor: pointer;
+    opacity: 1;
+    transition: background-color 0.15s ;
+    border-radius: 25px;
+
+}
+
+.submit-button:hover{
+
+    background-color: rgb(15, 177, 0);
+
+}
+
+.submit-button:active {
+
+    background-color: rgb(8, 100, 0);
+
+}
+
